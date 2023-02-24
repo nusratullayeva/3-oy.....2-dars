@@ -1,0 +1,189 @@
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+nav {
+    background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+}
+
+.btn-outline-success {
+    margin-left: 53px;
+    Width: 163px;
+    Height: 51px;
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    background: #FE8B37;
+    color: #FFFF;
+    border-radius: 4px;
+}
+
+.sectio-001 {
+    margin-top: 280px;
+}
+
+.navbar-brand {
+    color: #FFFFFF;
+    font-size: 36px;
+}
+
+.b-color li {
+    color: #FFFFFF;
+}
+
+h3 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.width {
+    margin-top: 70px;
+}
+
+.linear-button {
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    background: #006AFF;
+    border-radius: 5px;
+    border: none;
+    display: flex;
+    margin: 0 auto;
+}
+
+.section-002 {
+    margin-top: 83px;
+}
+
+.main-div_card {
+    align-items: center;
+    justify-content: space-between;
+    width: 625px;
+    height: 301px;
+    background: #055BD3;
+    border-radius: 5px;
+    display: flex;
+}
+
+.img-class {
+    margin-bottom: 77px;
+}
+
+.main-div {
+    display: flex;
+    column-gap: 30px;
+    margin-top: 236px;
+}
+
+.main-div_card h4 {
+    width: 309px;
+    font-size: 36px;
+    line-height: 50px;
+    color: #FFFFFF;
+    padding-left: 30px;
+}
+
+footer {
+    background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+}
+
+footer h5 {
+    padding-top: 40px;
+    padding-bottom: 33px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.menu-texts {
+    display: flex;
+    align-items: center;
+}
+
+footer ul li:nth-child(1) {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+footer ul li:nth-child(2) {
+    padding-left: 77px;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+footer ul li:nth-child(3) {
+    margin-left: 123px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+footer ul li:nth-child(4) {
+    padding-left: 56px;
+}
+
+footer ul li:nth-child(5) {
+    padding-left: 20px;
+}
+
+footer ul li:nth-child(6) {
+    padding-left: 20px;
+}
+
+footer ul {
+    margin-left: 331px;
+    display: flex;
+    list-style: none;
+}
+
+.cards-menu {
+    display: flex;
+    column-gap: 30px;
+}
+
+.co1ntainer-fluid {
+    display: flex;
+    align-items: center;
+}
+
+.section-002 {
+    margin-bottom: 100px;
+}
+
+.me-2 {
+    width: 304px;
+}
+
+.form-control {
+    margin-left: 280px;
+    background-color: #006AFF;
+    border: 1px solid #006AFF;
+}
+
+.b-color {
+    list-style: none;
+    display: flex;
+    column-gap: 40px;
+}
+
+h1 {
+    padding-top: 114px;
+    padding-bottom: 141px;
+    margin: 0 auto;
+    width: 840px;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.div-div {
+    position: relative;
+    background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+}
+
+.div-menu img {
+    position: absolute;
+    top: 360px;
+    cursor: pointer;
+}
